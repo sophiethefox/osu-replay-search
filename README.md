@@ -1,7 +1,7 @@
 # osu! Replay Search
 
 
-Program for searching through your osu! replays folder.
+Program for searching through your osu! replays folder. **Some screens do not appear correct when using Windows in light mode.**
 > [!WARNING]
 > Loading replays on first run (without cache) may take some time depending on amount of replays, whether or not on an SSD, other hardware, etc. On a HDD with 14188 replays, it took my system `92s` to complete.
 

@@ -3,10 +3,12 @@
 
 Program for searching through your osu! replays folder.
 > [!WARNING]
-> Loading replays on first run (without cache) may take some time depending on amount of replays, whether or not on an SSD, other hardware, etc. On a HDD with 14188 plays, it took my system `92s` to complete.
+> Loading replays on first run (without cache) may take some time depending on amount of replays, whether or not on an SSD, other hardware, etc. On a HDD with 14188 replays, it took my system `92s` to complete.
 
 > [!CAUTION]
 > This program is in an extremely volatile beta state. It is prone to breaking and may crash if used in an unexpected way. The program does not delete or overwrite any files other than cache (with a path specified) and settings. 
+
+## [Download Here](https://github.com/sophiethefox/osu-replay-search/releases/tag/v0.1.0-beta)
 
 Features:
 - Search most fields available in a replay and beatmap
